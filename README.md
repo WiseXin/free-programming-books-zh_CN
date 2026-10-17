@@ -1,7 +1,7 @@
 免费的编程中文书籍索引
 ============================
 
-[!(https://img.shields.io/github/issues/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/issues) [!(https://img.shields.io/github/forks/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/network) [!(https://img.shields.io/github/stars/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/stargazers) [!(https://travis-ci.org/WiseXin/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/WiseXin/free-programming-books-zh_CN) [!(https://img.shields.io/github/release/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/releases)
+[![](https://img.shields.io/github/issues/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/issues) [![](https://img.shields.io/github/forks/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/network) [![](https://img.shields.io/github/stars/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/stargazers) [![](https://img.shields.io/github/release/WiseXin/free-programming-books-zh_CN.svg)](https://github.com/WiseXin/free-programming-books-zh_CN/releases)
 
 免费的编程中文书籍索引，欢迎投稿。
 
